@@ -16,18 +16,18 @@
     <meta name="description" content="The study of education focuses on instructional strategies used in classrooms or other educational settings, as opposed to other informal and non-formal forms of socialisation (such as parent-child connections and rural development initiatives).Taleemi Dunya offers a cutting-edge system for managing educational institutions that combines a contemporary user interface and functions. Find Free Educational Software.">
     <meta name="author" content="Taleemi Dunya">
     <meta name="google-site-verification" content="JB46STB3aNIkqcqm9sIXY7IJzeKcaMnk4bHi99cRBuY" />
-    <meta property="og:image" content="https://portal.taleemidunya.com/logo/android-chrome-512x512.png" />
+    <meta property="og:image" content="https://staging.taleemidunya.com/logo/android-chrome-512x512.png" />
     <meta property="og:image:width" content="100" />
     <meta property="og:image:height" content="100" />
     <meta property="og:site_name" content="portal.taleemidunya.com" />
-    <meta property="og:url" content="https://portal.taleemidunya.com/" />
+    <meta property="og:url" content="https://staging.taleemidunya.com/" />
     <meta property="og:description" content="The study of education focuses on instructional strategies used in classrooms or other educational settings, as opposed to other informal and non-formal forms of socialisation (such as parent-child connections and rural development initiatives).Taleemi Dunya offers a cutting-edge system for managing educational institutions that combines a contemporary user interface and functions. Find Free Educational Software." />
     <meta property="og:title" content="Pakistan Education News Colleges Scholarship Result Admission Jobs and Complete Education Management System. | Taleemi Dunya" />
     <meta property="og:type" content="website">
-    <link rel="canonical" href="https://portal.taleemidunya.com/" />
+    <link rel="canonical" href="https://staging.taleemidunya.com/" />
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="taleemi portal">
-    <meta name="twitter:image" content="https://portal.taleemidunya.com/logo/android-chrome-512x512.png">
+    <meta name="twitter:image" content="https://staging.taleemidunya.com/logo/android-chrome-512x512.png">
     <meta name="twitter:title" content="Pakistan Education News Colleges Scholarship Result Admission Jobs and Complete Education Management System. | Taleemi Dunya">
     <meta name="twitter:description" content="The study of education focuses on instructional strategies used in classrooms or other educational settings, as opposed to other informal and non-formal forms of socialisation (such as parent-child connections and rural development initiatives).Taleemi Dunya offers a cutting-edge system for managing educational institutions that combines a contemporary user interface and functions. Find Free Educational Software.">
     <script type="application/ld+json">
@@ -36,13 +36,13 @@
             "@type": "Organization",
             "name": "Taleemi Portal",
             "alternateName": "E School Portal",
-            "url": "https://portal.taleemidunya.com/",
-            "logo": "https://portal.taleemidunya.com/logo/android-chrome-512x512.png",
+            "url": "https://staging.taleemidunya.com/",
+            "logo": "https://staging.taleemidunya.com/logo/android-chrome-512x512.png",
             "sameAs": [
                 "https://www.facebook.com/taleemidunyaofficial",
                 "https://www.youtube.com/@taleemidunyaofficial",
                 "https://www.pinterest.com.au/taleemidunyaofficial/",
-                "https://portal.taleemidunya.com/"
+                "https://staging.taleemidunya.com/"
             ]
         }
     </script>
@@ -202,7 +202,7 @@
                         <li class="menu-item"><a href="#contact">Contact</a></li>
                     </ul>
                     <div class="button">
-                        <a href="https://portal.taleemidunya.com/portal" target="_blank" class="text-btn btn-outline btn-round radius-lg transparent-bg text-white border-white">Sign In</a>
+                        <a href="https://staging.taleemidunya.com/portal" target="_blank" class="text-btn btn-outline btn-round radius-lg transparent-bg text-white border-white">Sign In</a>
                     </div>
                 </div>
                 <button class="toggler-menu">
@@ -221,7 +221,7 @@
             </div>
             <div class="menu"></div>
             <div class="buttons">
-                <a href="https://portal.taleemidunya.com/portal" target="_blank" class="text-btn btn-outline btn-round radius-lg transparent-bg hover-bg-white">Sign In</a>
+                <a href="https://staging.taleemidunya.com/portal" target="_blank" class="text-btn btn-outline btn-round radius-lg transparent-bg hover-bg-white">Sign In</a>
             </div>
             <div class="menu-footer text-center">
                 <div class="social-media">
@@ -251,7 +251,7 @@
                         </p>
                         <div class="hero-btns">
                             <a href="" target="_blank" class="text-btn radius-8xl white-bg pd-y-4 text-black">Get Started</a>
-                            <a href="https://portal.taleemidunya.com/demo" target="_blank" class="text-btn btn-outline border-white radius-8xl transparent-bg pd-y-4 white-text">Try it for free</a>
+                            <a href="https://staging.taleemidunya.com/demo" target="_blank" class="text-btn btn-outline border-white radius-8xl transparent-bg pd-y-4 white-text">Try it for free</a>
                         </div>
                     </div>
                 </div>

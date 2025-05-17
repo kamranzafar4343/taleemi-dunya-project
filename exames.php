@@ -7,38 +7,38 @@
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-<div class="row">
-    <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
-        <div class="card mb-3 text-center">
-            <a href="javascript:void()" onclick="location.href='create-date-sheet'" class="nav-links text-uppercase bg-white p-3 px-4">create date sheet</a>
+        <div class="row">
+          <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+            <div class="card mb-3 text-center">
+              <a href="javascript:void()" onclick="location.href='create-date-sheet.php'" class="nav-links text-uppercase bg-white p-3 px-4">create date sheet</a>
+            </div>
+          </div>
+          <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+            <div class="card mb-3 text-center">
+              <a href="javascript:void()" onclick="location.href='roll-no-slips.php'" class="nav-links text-uppercase bg-white p-3 px-4">roll no. slips</a>
+            </div>
+          </div>
+          <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+            <div class="card mb-3 text-center">
+              <a href="javascript:void()" onclick="location.href='enter-result-I.php'" class="nav-links text-uppercase bg-white p-3 px-4">enter result</a>
+            </div>
+          </div>
+          <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+            <div class="card mb-3 text-center">
+              <a href="javascript:void()" onclick="location.href='individual-enter-result-I.php'" class="nav-links text-uppercase bg-white p-3 px-4">Individual result</a>
+            </div>
+          </div>
+          <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+            <div class="card mb-3 text-center">
+              <a href="#" data-bs-toggle="modal" data-bs-target="#Crteresult" class="nav-links text-uppercase bg-white p-3 px-4">Create Results</a>
+            </div>
+          </div>
+          <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+            <div class="card mb-3 text-center">
+              <a href="javascript:void()" onclick="location.href='exame-attendance-sheet.php'" class="nav-links text-uppercase bg-white p-3 px-4">Attendance Sheet</a>
+            </div>
+          </div>
         </div>
-    </div>
-    <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
-        <div class="card mb-3 text-center">
-            <a href="javascript:void()" onclick="location.href='roll-no-slips'" class="nav-links text-uppercase bg-white p-3 px-4">roll no. slips</a>
-        </div>
-    </div>
-    <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
-        <div class="card mb-3 text-center">
-            <a href="javascript:void()" onclick="location.href='enter-result-I'" class="nav-links text-uppercase bg-white p-3 px-4">enter result</a>
-        </div>
-    </div>
-    <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
-        <div class="card mb-3 text-center">
-<a href="javascript:void()" onclick="location.href='individual-enter-result-I'" class="nav-links text-uppercase bg-white p-3 px-4">Individual result</a>
-        </div>
-    </div>
-    <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
-        <div class="card mb-3 text-center">
-            <a href="#" data-bs-toggle="modal" data-bs-target="#Crteresult" class="nav-links text-uppercase bg-white p-3 px-4">Create Results</a>
-        </div>
-    </div>
-    <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
-        <div class="card mb-3 text-center">
-<a href="javascript:void()" onclick="location.href='exame-attendance-sheet'" class="nav-links text-uppercase bg-white p-3 px-4">Attendance Sheet</a>
-        </div>
-    </div>
-</div>
       </div>
     </div>
   </div>
@@ -53,20 +53,20 @@
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-<div class="row">
-    <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-        <div class="card mb-3 text-center">
-            <a href="javascript:void()" onclick="location.href='create-result'" class="nav-links text-uppercase bg-white p-3 px-4">Signle Result Card</a>
+        <div class="row">
+          <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="card mb-3 text-center">
+              <a href="javascript:void()" onclick="location.href='create-result'" class="nav-links text-uppercase bg-white p-3 px-4">Signle Result Card</a>
+            </div>
+          </div>
+          <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="card mb-3 text-center">
+              <a href="javascript:void()" onclick="location.href='create-combine-result-card'" class="nav-links text-uppercase bg-white p-3 px-4">combine result card</a>
+            </div>
+          </div>
         </div>
-    </div>
-    <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-        <div class="card mb-3 text-center">
-<a href="javascript:void()" onclick="location.href='create-combine-result-card'" class="nav-links text-uppercase bg-white p-3 px-4">combine result card</a>
-        </div>
-    </div>
-</div>
       </div>
-      
+
     </div>
   </div>
 </div>

@@ -7,21 +7,21 @@
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-<div class="row">
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-        <div class="card mb-3 text-center">
-            <a href="javascript:void()" onclick="location.href='create-profile'" class="nav-links text-uppercase bg-white p-3 px-4">update Profile</a>
+        <div class="row">
+          <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="card mb-3 text-center">
+              <a href="javascript:void()" onclick="location.href='create-profile.php'" class="nav-links text-uppercase bg-white p-3 px-4">update Profile</a>
+            </div>
+          </div>
+          <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="card mb-3 text-center">
+              <a href="javascript:void()" onclick="location.href='change-password.php'" class="nav-links text-uppercase bg-white p-3 px-4">Change Password</a>
+            </div>
+          </div>
+
         </div>
-    </div>
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-        <div class="card mb-3 text-center">
-            <a href="javascript:void()" onclick="location.href='change-password'" class="nav-links text-uppercase bg-white p-3 px-4">Change Password</a>
-        </div>
-    </div>
-    
-</div>
       </div>
-  
+
     </div>
   </div>
 </div>

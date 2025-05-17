@@ -7,21 +7,21 @@
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-<div class="row">
-    <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-        <div class="card mb-3 text-center">
-            <a href="javascript:void()" onclick="location.href='student-certificates'" class="nav-links text-uppercase bg-white p-3 px-4">student certificates</a>
+        <div class="row">
+          <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="card mb-3 text-center">
+              <a href="javascript:void()" onclick="location.href='student-certificates.php'" class="nav-links text-uppercase bg-white p-3 px-4">student certificates</a>
+            </div>
+          </div>
+          <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="card mb-3 text-center">
+              <a href="javascript:void()" onclick="location.href='staff-certificates.php'" class="nav-links text-uppercase bg-white p-3 px-4">staff certificates</a>
+            </div>
+          </div>
+
         </div>
-    </div>
-    <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-        <div class="card mb-3 text-center">
-            <a href="javascript:void()" onclick="location.href='staff-certificates'" class="nav-links text-uppercase bg-white p-3 px-4">staff certificates</a>
-        </div>
-    </div>
-    
-</div>
       </div>
-      
+
     </div>
   </div>
 </div>
