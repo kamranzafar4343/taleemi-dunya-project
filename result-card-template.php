@@ -279,45 +279,6 @@
                             </th>
                         </tr>
                     </table>
-                    <script>
-                        google.charts.load('current', {
-                            packages: ['corechart', 'bar']
-                        });
-                        google.charts.setOnLoadCallback(drawChart_<?php echo $ids; ?>);
-
-                        function drawChart_<?php echo $ids; ?>() {
-                            const data = google.visualization.arrayToDataTable([
-                                ['Subject', 'Obtain Marks'],
-                                <?php
-                                $sl_rslts = mysqli_query($con, "SELECT * FROM results WHERE class='$clase' AND section='$sectin' AND session='$seisn' AND roll_no='$ids' AND instituteId='$userId' AND terms='$trms'");
-                                while ($rstls = mysqli_fetch_assoc($sl_rslts)) {
-                                    $subjt = $rstls['subject'];
-                                    $mrks = $rstls['marks'];
-                                ?>['<?php echo $subjt; ?>', <?php echo $mrks; ?>],
-                                <?php } ?>
-                            ]);
-
-                            const options = {
-                                title: '<?php echo $term; ?>',
-                                titleTextStyle: {
-                                    bold: true,
-                                    italic: true,
-                                    fontSize: 12,
-                                },
-                                legend: {
-                                    position: 'top',
-                                    maxLines: 3
-                                },
-                                bar: {
-                                    groupWidth: '30%'
-                                },
-                                isStacked: true,
-                            };
-
-                            const chart = new google.visualization.ColumnChart(document.getElementById('myChart_<?php echo $id; ?>'));
-                            chart.draw(data, options);
-                        }
-                    </script>
 
 
                 </div>
